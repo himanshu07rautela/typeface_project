@@ -3,6 +3,8 @@
 A modern, minimal personal finance dashboard to help you track, manage, and analyze your finances.
 
 ---
+## Video Link
+-[Video](https://drive.google.com/file/d/1x8oH1PBh5Wd_tvHadrYCh-wp1gUS8_gp/view?usp=sharing)
 
 ## Table of Contents
 
